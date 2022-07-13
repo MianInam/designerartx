@@ -3,7 +3,7 @@
     <div class="container-fluid py-5">
         <div class="container py-5">
             <div class="row justify-content-center">
-                <div class="col-lg-6 col-md-8 col text-center mb-4">
+                <div class="col-lg-6 col-md-8 col text-center mb-4" data-aos="fade-up">
                     {{--                    <h6 class="text-primary font-weight-normal text-uppercase mb-3">Our Projects</h6>--}}
                     <h1 class="mb-4">Our Work Portfolio</h1>
                 </div>
@@ -18,11 +18,12 @@
                         <li class="btn btn-outline-primary m-1" data-filter=".fourth">BUSINESS CARD</li>
                         <li class="btn btn-outline-primary m-1" data-filter=".fifth">LABEL PACKAGING</li>
                         <li class="btn btn-outline-primary m-1" data-filter=".sixth">FLYER/BROCHURE</li>
+                        <li><a href="/animation-video" class="btn btn-outline-primary m-1">3D ANIMATION VIDEOS</a></li>
                     </ul>
                 </div>
             </div>
             <div class="row mx-1 portfolio-container">
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-1.jpg" alt="">
@@ -42,7 +43,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-2.jpg" alt="">
@@ -62,7 +63,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-3.jpg" alt="">
@@ -82,7 +83,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-4.jpg" alt="">
@@ -102,7 +103,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-5.jpg" alt="">
@@ -122,7 +123,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-6.jpg" alt="">
@@ -142,7 +143,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-7.jpg" alt="">
@@ -162,7 +163,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-8.jpg" alt="">
@@ -182,7 +183,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-9.jpg" alt="">
@@ -202,7 +203,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-10.jpg" alt="">
@@ -222,7 +223,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-11.jpg" alt="">
@@ -242,7 +243,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-12.jpg" alt="">
@@ -262,7 +263,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-13.jpg" alt="">
@@ -282,7 +283,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-14.jpg" alt="">
@@ -302,7 +303,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-15.jpg" alt="">
@@ -322,7 +323,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-16.jpg" alt="">
@@ -342,7 +343,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-17.jpg" alt="">
@@ -362,7 +363,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-18.jpg" alt="">
@@ -382,7 +383,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-19.jpg" alt="">
@@ -402,7 +403,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-20.jpg" alt="">
@@ -420,7 +421,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-21.jpg" alt="">
@@ -440,7 +441,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-22.jpg" alt="">
@@ -460,7 +461,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-23.jpg" alt="">
@@ -480,7 +481,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-24.jpg" alt="">
@@ -500,7 +501,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-25.jpg" alt="">
@@ -520,7 +521,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-26.jpg" alt="">
@@ -540,7 +541,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-27.jpg" alt="">
@@ -560,7 +561,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-28.jpg" alt="">
@@ -580,7 +581,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-29.jpg" alt="">
@@ -600,7 +601,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-30.jpg" alt="">
@@ -620,7 +621,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-31.jpg" alt="">
@@ -640,7 +641,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-32.jpg" alt="">
@@ -660,7 +661,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-33.jpg" alt="">
@@ -680,7 +681,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-34.jpg" alt="">
@@ -700,7 +701,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-35.jpg" alt="">
@@ -720,7 +721,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-36.jpg" alt="">
@@ -740,7 +741,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-37.jpg" alt="">
@@ -760,7 +761,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-38.jpg" alt="">
@@ -780,7 +781,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-39.jpg" alt="">
@@ -800,7 +801,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-40.jpg" alt="">
@@ -820,7 +821,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-41.jpg" alt="">
@@ -840,7 +841,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-42.jpg" alt="">
@@ -860,7 +861,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-43.jpg" alt="">
@@ -880,7 +881,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-44.jpg" alt="">
@@ -900,7 +901,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-45.jpg" alt="">
@@ -920,7 +921,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-46.jpg" alt="">
@@ -940,7 +941,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-47.jpg" alt="">
@@ -960,7 +961,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-48.jpg" alt="">
@@ -980,7 +981,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-49.jpg" alt="">
@@ -1000,7 +1001,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-50.jpg" alt="">
@@ -1020,7 +1021,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-51.jpg" alt="">
@@ -1040,7 +1041,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-52.jpg" alt="">
@@ -1060,7 +1061,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-53.jpg" alt="">
@@ -1080,7 +1081,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-54.jpg" alt="">
@@ -1100,7 +1101,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-55.jpg" alt="">
@@ -1120,7 +1121,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-56.jpg" alt="">
@@ -1140,7 +1141,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-57.jpg" alt="">
@@ -1160,7 +1161,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-58.jpg" alt="">
@@ -1180,7 +1181,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-59.jpg" alt="">
@@ -1200,7 +1201,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-60.jpg" alt="">
@@ -1218,7 +1219,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-61.jpg" alt="">
@@ -1238,7 +1239,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-62.jpg" alt="">
@@ -1258,7 +1259,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-63.jpg" alt="">
@@ -1278,7 +1279,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-64.jpg" alt="">
@@ -1298,7 +1299,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-65.jpg" alt="">
@@ -1318,7 +1319,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-66.jpg" alt="">
@@ -1338,7 +1339,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-67.jpg" alt="">
@@ -1358,7 +1359,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-68.jpg" alt="">
@@ -1378,7 +1379,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-69.jpg" alt="">
@@ -1398,7 +1399,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-70.jpg" alt="">
@@ -1418,7 +1419,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-71.jpg" alt="">
@@ -1438,7 +1439,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-72.jpg" alt="">
@@ -1458,7 +1459,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-73.jpg" alt="">
@@ -1478,7 +1479,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-74.jpg" alt="">
@@ -1498,7 +1499,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-75.jpg" alt="">
@@ -1518,7 +1519,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-76.jpg" alt="">
@@ -1538,7 +1539,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-77.jpg" alt="">
@@ -1558,7 +1559,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-78.jpg" alt="">
@@ -1578,7 +1579,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-79.jpg" alt="">
@@ -1598,7 +1599,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-80.jpg" alt="">
@@ -1618,7 +1619,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-81.jpg" alt="">
@@ -1638,7 +1639,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-82.jpg" alt="">
@@ -1658,7 +1659,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-83.jpg" alt="">
@@ -1678,7 +1679,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-84.jpg" alt="">
@@ -1698,7 +1699,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-91.jpg" alt="">
@@ -1718,7 +1719,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-86.jpg" alt="">
@@ -1738,7 +1739,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-87.jpg" alt="">
@@ -1758,7 +1759,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-88.jpg" alt="">
@@ -1778,7 +1779,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-93.jpg" alt="">
@@ -1798,7 +1799,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-90.jpg" alt="">
@@ -1818,7 +1819,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-85.jpg" alt="">
@@ -1838,7 +1839,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-92.jpg" alt="">
@@ -1858,7 +1859,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-89.jpg" alt="">
@@ -1878,7 +1879,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-94.jpg" alt="">
@@ -1898,7 +1899,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-95.jpg" alt="">
@@ -1918,7 +1919,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-96.jpg" alt="">
@@ -1938,7 +1939,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-97.jpg" alt="">
@@ -1958,7 +1959,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-98.jpg" alt="">
@@ -1978,7 +1979,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-99.jpg" alt="">
@@ -1998,7 +1999,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-100.jpg" alt="">
@@ -2016,7 +2017,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-101.jpg" alt="">
@@ -2036,7 +2037,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-102.jpg" alt="">
@@ -2056,7 +2057,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-103.jpg" alt="">
@@ -2076,7 +2077,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-104.jpg" alt="">
@@ -2096,7 +2097,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-105.jpg" alt="">
@@ -2116,7 +2117,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-106.jpg" alt="">
@@ -2136,7 +2137,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-107.jpg" alt="">
@@ -2156,7 +2157,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-108.jpg" alt="">
@@ -2176,7 +2177,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-109.jpg" alt="">
@@ -2196,7 +2197,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-110.jpg" alt="">
@@ -2216,7 +2217,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-111.jpg" alt="">
@@ -2236,7 +2237,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-112.jpg" alt="">
@@ -2256,7 +2257,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-113.jpg" alt="">
@@ -2276,7 +2277,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-114.jpg" alt="">
@@ -2296,7 +2297,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-115.jpg" alt="">
@@ -2316,7 +2317,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-116.jpg" alt="">
@@ -2336,7 +2337,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-117.jpg" alt="">
@@ -2356,7 +2357,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-118.jpg" alt="">
@@ -2376,7 +2377,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-119.jpg" alt="">
@@ -2396,7 +2397,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-120.jpg" alt="">
@@ -2416,7 +2417,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-121.jpg" alt="">
@@ -2434,7 +2435,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-122.jpg" alt="">
@@ -2454,7 +2455,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-123.jpg" alt="">
@@ -2474,7 +2475,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-124.jpg" alt="">
@@ -2494,7 +2495,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-125.jpg" alt="">
@@ -2514,7 +2515,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-126.jpg" alt="">
@@ -2534,7 +2535,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-127.jpg" alt="">
@@ -2554,7 +2555,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-128.jpg" alt="">
@@ -2574,7 +2575,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-129.jpg" alt="">
@@ -2594,7 +2595,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-130.jpg" alt="">
@@ -2614,7 +2615,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-131.jpg" alt="">
@@ -2634,7 +2635,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-132.jpg" alt="">
@@ -2654,7 +2655,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-133.jpg" alt="">
@@ -2674,7 +2675,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-134.jpg" alt="">
@@ -2694,7 +2695,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-135.jpg" alt="">
@@ -2714,7 +2715,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item sixth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item sixth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-136.jpg" alt="">
@@ -2734,7 +2735,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item sixth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item sixth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-137.jpg" alt="">
@@ -2754,7 +2755,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item sixth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item sixth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-138.jpg" alt="">
@@ -2774,7 +2775,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item sixth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item sixth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-139.png" alt="">
@@ -2794,7 +2795,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item sixth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item sixth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-140.png" alt="">
@@ -2814,7 +2815,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item sixth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item sixth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-141.png" alt="">

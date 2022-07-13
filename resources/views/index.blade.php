@@ -8,13 +8,17 @@
         {{--                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">--}}
         <div class="p-3">
             {{--                            <h4 class="text-primary text-uppercase font-weight-normal mb-md-3">Creative Portfolio Design</h4>--}}
-            <h3 class="display-3 text-white mb-md-4" style="text-align: center; margin-top: 180px">We Are Experts</h3>
-            <h3 class="display-3 text-black-70 mb-md-4" style="text-align: center">Graphic Designing</h3>
+            <h3 class="display-3 text-white mb-md-4" style="text-align: center; margin-top: 180px" data-aos="slide-up">
+                We Are Experts</h3>
+            <h3 class="display-3 text-black-70 mb-md-4" style="text-align: center" data-aos="slide-up">Graphic
+                Designing</h3>
             <div class="containerbtn">
                 <div class="centerbtn">
-                    <a href="/portfolio" class="btn btn-primary py-md-3 px-md-5 mt-2 mt-md-4 rounded-pill" style="width: 200px;">Portfolio</a>
-                    <a href="/contact" class="btn btn-primary py-md-3 px-md-5 mt-2 mt-md-4 rounded-pill" style="width: 200px;">Contact
-                        Us</a>
+                    <a href="/portfolio" class="btn btn-primary py-md-3 px-md-5 mt-2 mt-md-4 rounded-pill"
+                       style="width: 200px;">Portfolio</a>
+                    <a href="/our-price" class="btn btn-primary py-md-3 px-md-5 mt-2 mt-md-4 rounded-pill"
+                       style="width: 200px;">Price List
+                    </a>
                 </div>
             </div>
         </div>
@@ -49,7 +53,7 @@
     <!-- Services Start -->
     <div class="container mt-3 mb-3">
         <div class="row">
-            <div class="col-md-3 col-sm-12">
+            <div class="col-md-3 col-sm-12" data-aos="fade-up">
                 <div class="card p-3 text-center">
                     <div class="d-flex justify-content-center"><img src="img/logoimg.png"></div>
                     <div class="mt-3 text-center">
@@ -59,18 +63,18 @@ it is the most powerful and visible symbol of your business and company's brand<
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-12">
+            <div class="col-md-3 col-sm-12" data-aos="fade-up">
                 <div class="card p-3 text-center">
                     <div class="d-flex justify-content-center"><img src="img/bcard.png"></div>
                     <div class="mt-3 text-center">
                         <h1 class="font-weight-bolder">Business Card</h1>
-                        <div class="text-center mt-2"> <span class="about">Business is very important for your Business.
+                        <div class="text-center mt-2"> <span class="about">Business Card is very important for your Business.
 Business card is not only a card but also your primary Identity and short description of your Business.<br><br><br><br><br><br></span>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-12">
+            <div class="col-md-3 col-sm-12" data-aos="fade-up">
                 <div class="card p-3 text-center">
                     <div class="d-flex justify-content-center"><img src="img/draw.png"></div>
                     <div class="mt-3 text-center">
@@ -81,7 +85,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-12">
+            <div class="col-md-3 col-sm-12" data-aos="fade-up">
                 <div class="card p-3 text-center">
                     <div class="d-flex justify-content-center"><img src="img/animation.jpg"></div>
                     <div class="mt-3 text-center">
@@ -93,102 +97,19 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
             </div>
         </div>
     </div>
-{{--    <div class="container-fluid py-5">--}}
-{{--        <div class="container py-5">--}}
-{{--            <div class="row">--}}
-{{--                <div class="col-lg-6 pr-lg-5">--}}
-{{--                    <h6 class="text-primary font-weight-normal text-uppercase mb-3">Our Awesome Services</h6>--}}
-{{--                    <h1 class="mb-4 section-title">Awesome Graphic Designing Services For Your Home</h1>--}}
-{{--                    <h3 class="mb-4 section-title">Take Your Brand Beyond Just a Name and a Logo</h3>--}}
-{{--                    <a href="" class="btn btn-primary mt-3 py-2 px-4">View More</a>--}}
-{{--                </div>--}}
-{{--                <div class="col-lg-12 p-0 pt-5 pt-lg-0">--}}
-{{--                    <div class="owl-carousel service-carousel position-relative">--}}
-{{--                        <div class="d-flex flex-column text-center bg-light mx-3 p-4">--}}
-{{--                            <h3 class="display-3 font-weight-normal text-primary mb-3"></h3>--}}
-{{--                            <h5 class="mb-3">Logo & Identity</h5>--}}
-{{--                            <p class="m-0">At Created Logo, our team of experienced designers works on the basis of--}}
-{{--                            clients needs. Their approach is client centered and personal. Our team will create--}}
-{{--                             stunning, original logo design for you that will help your business to stand out from--}}
-{{--                            crowd, wowing competitors and costumer alike.</p>--}}
-{{--                        </div>--}}
-{{--                        <div class="d-flex flex-column text-center bg-light mx-3 p-4">--}}
-{{--                            <h3 class="display-3 font-weight-normal text-primary mb-3"></h3>--}}
-{{--                            <h5 class="mb-3">Draw Cartoon</h5>--}}
-{{--                            <p class="m-0">Today, cool cartoon can be found all over the web. At Created Logo, we--}}
-{{--                            provide the best cartoon drawing services. It is unique and quirky way to represent your--}}
-{{--                            social media acccounts. Let our experienced designers help you with the formation of a perfect--}}
-{{--                            cartoonized version of your social media profiles.</p>--}}
-{{--                        </div>--}}
-{{--                        <div class="d-flex flex-column text-center bg-light mx-3 p-4">--}}
-{{--                            <h3 class="display-3 font-weight-normal text-primary mb-3"></h3>--}}
-{{--                            <h5 class="mb-3">Logo Animated</h5>--}}
-{{--                            <p class="m-0">Our animated experts create engaging and unique custom animated logos in form of--}}
-{{--                            3D videos for your business and personal brand. It is effected marketing strategy to attract the--}}
-{{--                            viewers for particular product or service. We offer you a fantastic way to communicate a message--}}
-{{--                            that may be difficult to explain in any other way.</p>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
-{{--    <!-- Services End -->--}}
-
-
-<!-- Features Start -->
-{{--    <div class="container-fluid bg-light">--}}
-{{--        <div class="container">--}}
-{{--            <div class="row">--}}
-{{--                <div class="col-lg-7 mt-5 py-5 pr-lg-5">--}}
-{{--                    <h6 class="text-primary font-weight-normal text-uppercase mb-3">Why Choose Us?</h6>--}}
-{{--                    <h1 class="mb-4 section-title">10+ Years Experience In The Graphic Design Industry</h1>--}}
-{{--                    <p class="mb-4">Dolores lorem lorem ipsum sit et ipsum. Sadip sea amet diam dolore sed et. Sit rebum labore sit sit ut vero no sit. Et elitr stet dolor sed sit et sed ipsum et kasd ut. Erat duo eos et erat sed diam duo</p>--}}
-{{--                    <ul class="list-inline">--}}
-{{--                        <li><h5><i class="far fa-check-square text-primary mr-3"></i>Logo Design</h5></li>--}}
-{{--                        <li><h5><i class="far fa-check-square text-primary mr-3"></i>3D Logo animation</h5></li>--}}
-{{--                        <li><h5><i class="far fa-check-square text-primary mr-3"></i>Business Card</h5></li>--}}
-{{--                        <li><h5><i class="far fa-check-square text-primary mr-3"></i>Pencil drawing</h5></li>--}}
-{{--                        <li><h5><i class="far fa-check-square text-primary mr-3"></i>Cartoon Portrait</h5></li>--}}
-{{--                        <li><h5><i class="far fa-check-square text-primary mr-3"></i>Flyer/Brochure</h5></li><li>--}}
-{{--                        <li><h5><i class="far fa-check-square text-primary mr-3"></i>Label Bottle</h5></li>--}}
-{{--                        <li><h5><i class="far fa-check-square text-primary mr-3"></i>Banner design</h5></li>--}}
-{{--                    </ul>--}}
-{{--                    <a href="/about" class="btn btn-primary mt-3 py-2 px-4">About US</a>--}}
-{{--                </div>--}}
-{{--                <div class="col-lg-5">--}}
-{{--                    <div class="d-flex flex-column align-items-center justify-content-center h-100 overflow-hidden">--}}
-{{--                        <img class="h-100" src="img/feature.jpg" alt="">--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
-<!-- Features End -->
 
 
     <!-- Projects Start -->
     <div class="container-fluid py-5">
         <div class="container py-5">
             <div class="row justify-content-center">
-                <div class="col-lg-6 col-md-8 col text-center mb-4">
+                <div class="col-lg-6 col-md-8 col text-center mb-4" data-aos="fade-right">
                     {{--                    <h6 class="text-primary font-weight-normal text-uppercase mb-3">Our Projects</h6>--}}
                     <h1 class="mb-4">Our Work Portfolio</h1>
                 </div>
             </div>
-            {{--            <div class="row">--}}
-            {{--                <div class="col-12 text-center mb-2">--}}
-            {{--                    <ul class="list-inline mb-4" id="portfolio-flters">--}}
-            {{--                        <li class="btn btn-outline-primary m-1 active"  data-filter="*">All</li>--}}
-            {{--                        <li class="btn btn-outline-primary m-1" data-filter=".first">Cartoon Portrait</li>--}}
-            {{--                        <li class="btn btn-outline-primary m-1" data-filter=".second">Logo</li>--}}
-            {{--                        <li class="btn btn-outline-primary m-1" data-filter=".third">Color Pencil Drawing</li>--}}
-            {{--                        <li class="btn btn-outline-primary m-1" data-filter=".fourth">Black & White Pencil Drawing</li>--}}
-            {{--                    </ul>--}}
-            {{--                </div>--}}
-            {{--            </div>--}}
             <div class="row mx-1 portfolio-container">
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-1.jpg" alt="">
@@ -208,7 +129,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-2.jpg" alt="">
@@ -228,7 +149,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-3.jpg" alt="">
@@ -248,7 +169,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-4.jpg" alt="">
@@ -268,7 +189,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-5.jpg" alt="">
@@ -288,7 +209,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-6.jpg" alt="">
@@ -308,7 +229,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item first" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-7.jpg" alt="">
@@ -328,7 +249,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-8.jpg" alt="">
@@ -348,7 +269,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-9.jpg" alt="">
@@ -368,7 +289,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-27.jpg" alt="">
@@ -388,7 +309,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-24.jpg" alt="">
@@ -408,7 +329,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-26.jpg" alt="">
@@ -428,7 +349,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-39.jpg" alt="">
@@ -448,7 +369,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-40.jpg" alt="">
@@ -468,7 +389,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-41.jpg" alt="">
@@ -488,7 +409,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-53.jpg" alt="">
@@ -508,7 +429,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-60.jpg" alt="">
@@ -528,7 +449,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-61.jpg" alt="">
@@ -548,7 +469,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-69.jpg" alt="">
@@ -568,25 +489,27 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-70.jpg" alt="">
                         </div>
-                        <div class="portfolio-text bg-secondary d-flex flex-column align-items-center justify-content-center">
+                        <div
+                            class="portfolio-text bg-secondary d-flex flex-column align-items-center justify-content-center">
                             {{--                            <h4 class="text-white mb-4">Project Name</h4>--}}
                             <div class="d-flex align-items-center justify-content-center">
                                 {{--                                <a class="btn btn-outline-primary m-1" href="">--}}
                                 {{--                                    <i class="fa fa-link"></i>--}}
                                 {{--                                </a>--}}
-                                <a class="btn btn-outline-primary m-1" href="img/portfolio-70.jpg" data-lightbox="portfolio">
+                                <a class="btn btn-outline-primary m-1" href="img/portfolio-70.jpg"
+                                   data-lightbox="portfolio">
                                     <i class="fa fa-eye"></i>
                                 </a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-71.jpg" alt="">
@@ -606,7 +529,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-80.jpg" alt="">
@@ -626,7 +549,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-81.jpg" alt="">
@@ -646,7 +569,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-82.jpg" alt="">
@@ -666,7 +589,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-91.jpg" alt="">
@@ -686,7 +609,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-92.jpg" alt="">
@@ -706,7 +629,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-93.jpg" alt="">
@@ -726,7 +649,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-94.jpg" alt="">
@@ -746,7 +669,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-95.jpg" alt="">
@@ -766,7 +689,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item third" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-96.jpg" alt="">
@@ -786,7 +709,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-97.jpg" alt="">
@@ -806,7 +729,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-98.jpg" alt="">
@@ -826,7 +749,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-99.jpg" alt="">
@@ -846,7 +769,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fourth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-108.jpg" alt="">
@@ -866,7 +789,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-109.jpg" alt="">
@@ -886,7 +809,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-110.jpg" alt="">
@@ -906,7 +829,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-128.jpg" alt="">
@@ -926,7 +849,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item second" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-129.jpg" alt="">
@@ -946,7 +869,7 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item fifth" data-aos="fade-up">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img d-flex align-items-center justify-content-center">
                             <img class="img-fluid" src="img/portfolio-132.jpg" alt="">
@@ -969,49 +892,164 @@ Highly recommend for gifts on various occasions, social media avatars, or you ca
             </div>
         </div>
     </div>
-        <!-- Projects End -->
+    <!-- Projects End -->
+
+    <!-- testimnial -->
+    <div class="container mt-5 mb-5">
+
+        <div class="row g-2">
+            <div class="col-md-4">
+                <div class="card p-3 text-center px-4"  style="background-color:#eee; margin-bottom: 10px;">
+
+                    <div class="user-image">
+
+                        <img src="img/aa.jpg" class="rounded-circle" width="80"
+                        >
+
+                    </div>
+
+                    <div class="user-content">
+
+                        <h5 class="mb-0">Robert Greene</h5>
+                        <span>-</span>
+                        <p>"Does great work! 2nd project with him and already looking for my next project. And his prices are such a great deal for the quality of his work !"
+                        </p>
+
+                    </div>
+
+                    <div class="ratings">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-md-4">
+
+                <div class="card p-3 text-center px-4"  style="background-color:#eee; margin-bottom: 10px;">
+
+                    <div class="user-image">
+
+                        <img src="img/bb.jpg" class="rounded-circle" width="80"
+                        >
+
+                    </div>
+
+                    <div class="user-content">
+
+                        <h5 class="mb-0">David Roberts</h5>
+                        <span>-</span>
+                        <p>" This company is amazing they provided me with a worry free experience they were on time and delivered high quality work I definitely will be using them again in the near future!!!!"
+                        </p>
+
+                    </div>
+
+                    <div class="ratings">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-4">
+
+                <div class="card p-3 text-center px-4"  style="background-color:#eee;">
+
+                    <div class="user-image">
+
+                        <img src="img/cc.jpg" class="rounded-circle" width="80"
+                        >
+
+                    </div>
+
+                    <div class="user-content">
+
+                        <h5 class="mb-0">Jody Galyean</h5>
+                        <span>-</span>
+                        <p>"Great communication throughout! Everything was prepared as per the requirements shared and multiple options/revisions were done for no extra charge. Working with graphicartx was really excellent and speed of delivery is truly impressive."
+                        </p>
+
+                    </div>
+
+                    <div class="ratings">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+
+                    </div>
+
+                </div>
+
+            </div>
 
 
-        <!-- Team Start -->
-        <div class="py-5 text-center text-info background-info" style="">
-            <div class="container">
-                <div class="row">
-                    <div class="mx-auto col-md-12">
-                        <h1 class="mb-3" contenteditable="true">Meet our Expert team</h1>
+        </div>
+
+    </div>
+    <!-- testimnial  end-->
+
+
+    <!-- Team Start -->
+    <div class="team-boxed">
+        <div class="container">
+            <div class="intro" data-aos="fade-up">
+                <h1 class="text-center" style="color: #0a0a0d; padding-top: 10px;">Meet our Expert team</h1>
+            </div>
+            <div class="row people">
+                <div class="col-md-6 col-lg-6 itemt" data-aos="fade-up">
+                    <div class="box"><img class="rounded-circle" data-bs-hover-animate="pulse" src="img/team-1.png">
+                        <h3 class="name">Mashael Saeed</h3>
+                        <p class="title">Graphic Designer & Artist</p>
+                        <p class="description"></p>
+                        <div class="social">
+                            <a style="text-decoration: none;" href="#">
+                                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+                                     width="40" height="40"
+                                     viewBox="0 0 48 48"
+                                     style=" fill:#000000;"><path fill="#0078d4" d="M24,4C12.954,4,4,12.954,4,24s8.954,20,20,20s20-8.954,20-20S35.046,4,24,4z"></path><path d="M30,35v-9c0-1.103-0.897-2-2-2s-2,0.897-2,2v9h-6V18h6v1.027C27.04,18.359,28.252,18,29.5,18	c3.584,0,6.5,2.916,6.5,6.5V35H30z M13,35V18h2.966C14.247,18,13,16.738,13,14.999C13,13.261,14.267,12,16.011,12	c1.696,0,2.953,1.252,2.989,2.979C19,16.733,17.733,18,15.988,18H19v17H13z" opacity=".05"></path><path d="M30.5,34.5V26c0-1.378-1.121-2.5-2.5-2.5s-2.5,1.122-2.5,2.5v8.5h-5v-16h5v1.534	c1.09-0.977,2.512-1.534,4-1.534c3.309,0,6,2.691,6,6v10H30.5z M13.5,34.5v-16h5v16H13.5z M15.966,17.5	c-1.429,0-2.466-1.052-2.466-2.501c0-1.448,1.056-2.499,2.511-2.499c1.436,0,2.459,1.023,2.489,2.489	c0,1.459-1.057,2.511-2.512,2.511H15.966z" opacity=".07"></path><path fill="#fff" d="M14,19h4v15h-4V19z M15.988,17h-0.022C14.772,17,14,16.11,14,14.999C14,13.864,14.796,13,16.011,13	c1.217,0,1.966,0.864,1.989,1.999C18,16.11,17.228,17,15.988,17z M35,24.5c0-3.038-2.462-5.5-5.5-5.5	c-1.862,0-3.505,0.928-4.5,2.344V19h-4v15h4v-8c0-1.657,1.343-3,3-3s3,1.343,3,3v8h4C35,34,35,24.921,35,24.5z"></path>
+                                </svg>
+                            </a><a style="text-decoration: none;" href="https://wa.link/hf4mw2">
+                                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+                                     width="48" height="48"
+                                     viewBox="0 0 48 48"
+                                     style=" fill:#000000;"><path fill="#fff" d="M4.868,43.303l2.694-9.835C5.9,30.59,5.026,27.324,5.027,23.979C5.032,13.514,13.548,5,24.014,5c5.079,0.002,9.845,1.979,13.43,5.566c3.584,3.588,5.558,8.356,5.556,13.428c-0.004,10.465-8.522,18.98-18.986,18.98c-0.001,0,0,0,0,0h-0.008c-3.177-0.001-6.3-0.798-9.073-2.311L4.868,43.303z"></path><path fill="#fff" d="M4.868,43.803c-0.132,0-0.26-0.052-0.355-0.148c-0.125-0.127-0.174-0.312-0.127-0.483l2.639-9.636c-1.636-2.906-2.499-6.206-2.497-9.556C4.532,13.238,13.273,4.5,24.014,4.5c5.21,0.002,10.105,2.031,13.784,5.713c3.679,3.683,5.704,8.577,5.702,13.781c-0.004,10.741-8.746,19.48-19.486,19.48c-3.189-0.001-6.344-0.788-9.144-2.277l-9.875,2.589C4.953,43.798,4.911,43.803,4.868,43.803z"></path><path fill="#cfd8dc" d="M24.014,5c5.079,0.002,9.845,1.979,13.43,5.566c3.584,3.588,5.558,8.356,5.556,13.428c-0.004,10.465-8.522,18.98-18.986,18.98h-0.008c-3.177-0.001-6.3-0.798-9.073-2.311L4.868,43.303l2.694-9.835C5.9,30.59,5.026,27.324,5.027,23.979C5.032,13.514,13.548,5,24.014,5 M24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974 M24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974 M24.014,4C24.014,4,24.014,4,24.014,4C12.998,4,4.032,12.962,4.027,23.979c-0.001,3.367,0.849,6.685,2.461,9.622l-2.585,9.439c-0.094,0.345,0.002,0.713,0.254,0.967c0.19,0.192,0.447,0.297,0.711,0.297c0.085,0,0.17-0.011,0.254-0.033l9.687-2.54c2.828,1.468,5.998,2.243,9.197,2.244c11.024,0,19.99-8.963,19.995-19.98c0.002-5.339-2.075-10.359-5.848-14.135C34.378,6.083,29.357,4.002,24.014,4L24.014,4z"></path><path fill="#40c351" d="M35.176,12.832c-2.98-2.982-6.941-4.625-11.157-4.626c-8.704,0-15.783,7.076-15.787,15.774c-0.001,2.981,0.833,5.883,2.413,8.396l0.376,0.597l-1.595,5.821l5.973-1.566l0.577,0.342c2.422,1.438,5.2,2.198,8.032,2.199h0.006c8.698,0,15.777-7.077,15.78-15.776C39.795,19.778,38.156,15.814,35.176,12.832z"></path><path fill="#fff" fill-rule="evenodd" d="M19.268,16.045c-0.355-0.79-0.729-0.806-1.068-0.82c-0.277-0.012-0.593-0.011-0.909-0.011c-0.316,0-0.83,0.119-1.265,0.594c-0.435,0.475-1.661,1.622-1.661,3.956c0,2.334,1.7,4.59,1.937,4.906c0.237,0.316,3.282,5.259,8.104,7.161c4.007,1.58,4.823,1.266,5.693,1.187c0.87-0.079,2.807-1.147,3.202-2.255c0.395-1.108,0.395-2.057,0.277-2.255c-0.119-0.198-0.435-0.316-0.909-0.554s-2.807-1.385-3.242-1.543c-0.435-0.158-0.751-0.237-1.068,0.238c-0.316,0.474-1.225,1.543-1.502,1.859c-0.277,0.317-0.554,0.357-1.028,0.119c-0.474-0.238-2.002-0.738-3.815-2.354c-1.41-1.257-2.362-2.81-2.639-3.285c-0.277-0.474-0.03-0.731,0.208-0.968c0.213-0.213,0.474-0.554,0.712-0.831c0.237-0.277,0.316-0.475,0.474-0.791c0.158-0.317,0.079-0.594-0.04-0.831C20.612,19.329,19.69,16.983,19.268,16.045z" clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-lg-6 col-md-6 p-4"><img class="img-fluid d-block mb-3 mx-auto rounded-circle"
-                                                            alt="Card image cap" width="200" src="img/team-1.png">
-                        <h4><b>Mashael Saeed</b></h4>
-
-                        <p class="mb-0"><a style="text-decoration: none;" href="https://wa.link/hf4mw2">
-                                <svg style="color: green; height: 30px; width: 30px;" xmlns="http://www.w3.org/2000/svg"
-                                     width="16" height="16" fill="currentColor" class="bi bi-whatsapp"
-                                     viewBox="0 0 16 16">
-                                    <path
-                                        d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z"/>
+                <div class="col-md-6 col-lg-6 itemt" data-aos="fade-up">
+                    <div class="box"><img class="rounded-circle" data-bs-hover-animate="pulse" src="img/team-2.png">
+                        <h3 class="name">Shima Zarrinbakush</h3>
+                        <p class="title">Graphic Designer & Artist</p>
+                        <p class="description"></p>
+                        <div class="social"><a style="text-decoration: none;" href="#">
+                                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+                                     width="40" height="40"
+                                     viewBox="0 0 48 48"
+                                     style=" fill:#000000;"><path fill="#0078d4" d="M24,4C12.954,4,4,12.954,4,24s8.954,20,20,20s20-8.954,20-20S35.046,4,24,4z"></path><path d="M30,35v-9c0-1.103-0.897-2-2-2s-2,0.897-2,2v9h-6V18h6v1.027C27.04,18.359,28.252,18,29.5,18	c3.584,0,6.5,2.916,6.5,6.5V35H30z M13,35V18h2.966C14.247,18,13,16.738,13,14.999C13,13.261,14.267,12,16.011,12	c1.696,0,2.953,1.252,2.989,2.979C19,16.733,17.733,18,15.988,18H19v17H13z" opacity=".05"></path><path d="M30.5,34.5V26c0-1.378-1.121-2.5-2.5-2.5s-2.5,1.122-2.5,2.5v8.5h-5v-16h5v1.534	c1.09-0.977,2.512-1.534,4-1.534c3.309,0,6,2.691,6,6v10H30.5z M13.5,34.5v-16h5v16H13.5z M15.966,17.5	c-1.429,0-2.466-1.052-2.466-2.501c0-1.448,1.056-2.499,2.511-2.499c1.436,0,2.459,1.023,2.489,2.489	c0,1.459-1.057,2.511-2.512,2.511H15.966z" opacity=".07"></path><path fill="#fff" d="M14,19h4v15h-4V19z M15.988,17h-0.022C14.772,17,14,16.11,14,14.999C14,13.864,14.796,13,16.011,13	c1.217,0,1.966,0.864,1.989,1.999C18,16.11,17.228,17,15.988,17z M35,24.5c0-3.038-2.462-5.5-5.5-5.5	c-1.862,0-3.505,0.928-4.5,2.344V19h-4v15h4v-8c0-1.657,1.343-3,3-3s3,1.343,3,3v8h4C35,34,35,24.921,35,24.5z"></path>
                                 </svg>
-                            </a></p>
-                    </div>
-                    <div class="col-lg-6 col-md-6 p-4"><img class="img-fluid d-block mb-3 mx-auto rounded-circle"
-                                                            src="img/team-2.png" alt="Card image cap" width="200">
-                        <h4><b>Shima Zarrinbakush</b></h4>
-                        <p class="mb-0"><a style="text-decoration: none;" href="https://wa.link/hf4mw2">
-                                <svg style="color: green; height: 30px; width: 30px;" xmlns="http://www.w3.org/2000/svg"
-                                     width="16" height="16" fill="currentColor" class="bi bi-whatsapp"
-                                     viewBox="0 0 16 16">
-                                    <path
-                                        d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z"/>
+                            </a><a style="text-decoration: none;" href="https://wa.link/hf4mw2">
+                                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+                                     width="48" height="48"
+                                     viewBox="0 0 48 48"
+                                     style=" fill:#000000;"><path fill="#fff" d="M4.868,43.303l2.694-9.835C5.9,30.59,5.026,27.324,5.027,23.979C5.032,13.514,13.548,5,24.014,5c5.079,0.002,9.845,1.979,13.43,5.566c3.584,3.588,5.558,8.356,5.556,13.428c-0.004,10.465-8.522,18.98-18.986,18.98c-0.001,0,0,0,0,0h-0.008c-3.177-0.001-6.3-0.798-9.073-2.311L4.868,43.303z"></path><path fill="#fff" d="M4.868,43.803c-0.132,0-0.26-0.052-0.355-0.148c-0.125-0.127-0.174-0.312-0.127-0.483l2.639-9.636c-1.636-2.906-2.499-6.206-2.497-9.556C4.532,13.238,13.273,4.5,24.014,4.5c5.21,0.002,10.105,2.031,13.784,5.713c3.679,3.683,5.704,8.577,5.702,13.781c-0.004,10.741-8.746,19.48-19.486,19.48c-3.189-0.001-6.344-0.788-9.144-2.277l-9.875,2.589C4.953,43.798,4.911,43.803,4.868,43.803z"></path><path fill="#cfd8dc" d="M24.014,5c5.079,0.002,9.845,1.979,13.43,5.566c3.584,3.588,5.558,8.356,5.556,13.428c-0.004,10.465-8.522,18.98-18.986,18.98h-0.008c-3.177-0.001-6.3-0.798-9.073-2.311L4.868,43.303l2.694-9.835C5.9,30.59,5.026,27.324,5.027,23.979C5.032,13.514,13.548,5,24.014,5 M24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974 M24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974 M24.014,4C24.014,4,24.014,4,24.014,4C12.998,4,4.032,12.962,4.027,23.979c-0.001,3.367,0.849,6.685,2.461,9.622l-2.585,9.439c-0.094,0.345,0.002,0.713,0.254,0.967c0.19,0.192,0.447,0.297,0.711,0.297c0.085,0,0.17-0.011,0.254-0.033l9.687-2.54c2.828,1.468,5.998,2.243,9.197,2.244c11.024,0,19.99-8.963,19.995-19.98c0.002-5.339-2.075-10.359-5.848-14.135C34.378,6.083,29.357,4.002,24.014,4L24.014,4z"></path><path fill="#40c351" d="M35.176,12.832c-2.98-2.982-6.941-4.625-11.157-4.626c-8.704,0-15.783,7.076-15.787,15.774c-0.001,2.981,0.833,5.883,2.413,8.396l0.376,0.597l-1.595,5.821l5.973-1.566l0.577,0.342c2.422,1.438,5.2,2.198,8.032,2.199h0.006c8.698,0,15.777-7.077,15.78-15.776C39.795,19.778,38.156,15.814,35.176,12.832z"></path><path fill="#fff" fill-rule="evenodd" d="M19.268,16.045c-0.355-0.79-0.729-0.806-1.068-0.82c-0.277-0.012-0.593-0.011-0.909-0.011c-0.316,0-0.83,0.119-1.265,0.594c-0.435,0.475-1.661,1.622-1.661,3.956c0,2.334,1.7,4.59,1.937,4.906c0.237,0.316,3.282,5.259,8.104,7.161c4.007,1.58,4.823,1.266,5.693,1.187c0.87-0.079,2.807-1.147,3.202-2.255c0.395-1.108,0.395-2.057,0.277-2.255c-0.119-0.198-0.435-0.316-0.909-0.554s-2.807-1.385-3.242-1.543c-0.435-0.158-0.751-0.237-1.068,0.238c-0.316,0.474-1.225,1.543-1.502,1.859c-0.277,0.317-0.554,0.357-1.028,0.119c-0.474-0.238-2.002-0.738-3.815-2.354c-1.41-1.257-2.362-2.81-2.639-3.285c-0.277-0.474-0.03-0.731,0.208-0.968c0.213-0.213,0.474-0.554,0.712-0.831c0.237-0.277,0.316-0.475,0.474-0.791c0.158-0.317,0.079-0.594-0.04-0.831C20.612,19.329,19.69,16.983,19.268,16.045z" clip-rule="evenodd"></path>
                                 </svg>
-                            </a></p>
+                            </a></div>
                     </div>
-                    {{--                <div class="col-lg-4 p-4"> <img class="img-fluid d-block mb-3 mx-auto rounded-circle" src="img/team-1.png" width="200">--}}
-                    {{--                    <h4> <b>Maria Samantha</b> </h4>--}}
-                    {{--                    <p class="mb-0">HR Manager</p>--}}
-                    {{--                </div>--}}
                 </div>
             </div>
         </div>
+    </div>
 
 </x-layout>

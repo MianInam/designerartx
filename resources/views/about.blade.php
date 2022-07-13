@@ -3,14 +3,14 @@
     <div class="container-fluid bg-light" style="margin-top: 100px">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5"  style="padding-top: 50px; padding-bottom: 50px;">
+                <div class="col-lg-5"  style="padding-top: 50px; padding-bottom: 50px;" data-aos="fade-right">
                     <div class="d-flex flex-column align-items-center justify-content-center bg-primary h-100 py-5 px-3" style="background: #e5e5e5;">
                         <i class="flaticon-brickwall display-1 font-weight-normal text-secondary mb-3"></i>
                         <h4 class="display-3 mb-3">5+</h4>
                         <h1 class="m-0">Years Experience</h1>
                     </div>
                 </div>
-                <div class="col-lg-7 m-0 my-lg-5 pt-5 pb-5 pb-lg-2 pl-lg-5">
+                <div class="col-lg-7 m-0 my-lg-5 pt-5 pb-5 pb-lg-2 pl-lg-5" data-aos="fade-left">
                     <h6 class="text-primary font-weight-normal text-uppercase mb-3">Learn About Us</h6>
                     <h1 class="mb-4 section-title">We Are The Best Graphic Designing Firm In Your City</h1>
                     <p>Designerartx is based on the idea that creativity and perception should be given a graphical touch, which is why we have teamed up with some of the best graphic designers around. Our goal: to create a logo or Corporate Identity Design which reflects a professional, long lasting impression on our clients and their customers.

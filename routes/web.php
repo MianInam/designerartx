@@ -21,4 +21,8 @@ Route::get('/contact',function (){ return view('contact');});
 Route::get('/privacy-policy',function (){ return view('privacy');});
 Route::get('/terms-and-conditions',function (){ return view('terms');});
 Route::get('/refund-policy',function (){ return view('refund');});
+Route::get('/our-price',function (){ return view('price');});
+Route::get('/animation-video',function (){ return view('video');});
+Route::post('/send-email',[Controller::class,'sendEmail'])->name('send.email');
+
 

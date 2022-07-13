@@ -3,7 +3,7 @@
     <div class="container-fluid bg-light" style="margin-top: 100px">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 mt-5 py-5 pr-lg-5">
+                <div class="col-lg-12 mt-5 py-5 pr-lg-5" data-aos="fade-right">
 {{--                    <h6 class="text-primary font-weight-normal text-uppercase mb-3">Why Choose Us?</h6>--}}
                     <h1 class="mb-4 section-title">Privacy Policy</h1>
                     <p class="mb-4"></p>
